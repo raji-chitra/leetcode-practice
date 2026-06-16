@@ -21,6 +21,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/raji-chitra/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raji-chitra/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1480-running-sum-of-1d-array](https://github.com/raji-chitra/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -34,6 +35,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/raji-chitra/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raji-chitra/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
