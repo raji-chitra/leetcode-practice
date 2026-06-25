@@ -26,6 +26,7 @@
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/raji-chitra/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raji-chitra/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/raji-chitra/leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/raji-chitra/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [1480-running-sum-of-1d-array](https://github.com/raji-chitra/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/raji-chitra/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raji-chitra/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/raji-chitra/leetcode-practice/tree/master/0152-maximum-product-subarray) |
 ## Two Pointers
 |  |
 | ------- |
