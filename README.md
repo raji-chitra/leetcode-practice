@@ -5,12 +5,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raji-chitra/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/raji-chitra/leetcode-practice/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raji-chitra/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/raji-chitra/leetcode-practice/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -70,4 +72,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/raji-chitra/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
