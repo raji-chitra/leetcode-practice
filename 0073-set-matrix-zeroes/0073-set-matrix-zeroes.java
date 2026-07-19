@@ -13,7 +13,6 @@ class Solution {
                     row[i]=1;
                     col[j]=1;
                 }
-            
             }
         }
         for(int i=0;i<m;i++)
@@ -26,5 +25,6 @@ class Solution {
                 }
             }
         }
-}
+        
+    }
 }
