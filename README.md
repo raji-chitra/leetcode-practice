@@ -36,6 +36,7 @@
 | [0287-find-the-duplicate-number](https://github.com/raji-chitra/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/raji-chitra/leetcode-practice/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/raji-chitra/leetcode-practice/tree/master/0645-set-mismatch) |
+| [0739-daily-temperatures](https://github.com/raji-chitra/leetcode-practice/tree/master/0739-daily-temperatures) |
 | [1480-running-sum-of-1d-array](https://github.com/raji-chitra/leetcode-practice/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -87,4 +88,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/raji-chitra/leetcode-practice/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raji-chitra/leetcode-practice/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/raji-chitra/leetcode-practice/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
