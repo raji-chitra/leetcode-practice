@@ -27,6 +27,7 @@
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/raji-chitra/leetcode-practice/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/raji-chitra/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/raji-chitra/leetcode-practice/tree/master/0455-assign-cookies) |
