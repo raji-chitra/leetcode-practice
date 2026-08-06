@@ -112,4 +112,8 @@
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/raji-chitra/leetcode-practice/tree/master/0273-integer-to-english-words) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
