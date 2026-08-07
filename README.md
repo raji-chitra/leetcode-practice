@@ -5,6 +5,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raji-chitra/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
@@ -31,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/raji-chitra/leetcode-practice/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/raji-chitra/leetcode-practice/tree/master/0056-merge-intervals) |
