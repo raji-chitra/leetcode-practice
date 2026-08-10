@@ -35,6 +35,7 @@
 | [0001-two-sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/raji-chitra/leetcode-practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/raji-chitra/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raji-chitra/leetcode-practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
@@ -123,4 +125,8 @@
 | ------- |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/raji-chitra/leetcode-practice/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
