@@ -129,4 +129,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0054-spiral-matrix) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/raji-chitra/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
