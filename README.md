@@ -132,5 +132,6 @@
 ## Database
 |  |
 | ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/raji-chitra/leetcode-practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1757-recyclable-and-low-fat-products](https://github.com/raji-chitra/leetcode-practice/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
