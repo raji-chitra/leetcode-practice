@@ -9,6 +9,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raji-chitra/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/raji-chitra/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/raji-chitra/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raji-chitra/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0645-set-mismatch](https://github.com/raji-chitra/leetcode-practice/tree/master/0645-set-mismatch) |
@@ -25,6 +26,7 @@
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raji-chitra/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/raji-chitra/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/raji-chitra/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raji-chitra/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/raji-chitra/leetcode-practice/tree/master/0455-assign-cookies) |
@@ -47,6 +49,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raji-chitra/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/raji-chitra/leetcode-practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/raji-chitra/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/raji-chitra/leetcode-practice/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/raji-chitra/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/raji-chitra/leetcode-practice/tree/master/0455-assign-cookies) |
