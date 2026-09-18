@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/raji-chitra/leetcode-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0054-spiral-matrix) |
@@ -71,6 +72,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raji-chitra/leetcode-practice/tree/master/0088-merge-sorted-array) |
@@ -107,6 +109,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/raji-chitra/leetcode-practice/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
