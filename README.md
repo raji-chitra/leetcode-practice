@@ -40,6 +40,7 @@
 | [0015-3sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raji-chitra/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/raji-chitra/leetcode-practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/raji-chitra/leetcode-practice/tree/master/0056-merge-intervals) |
@@ -74,6 +75,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0118-pascals-triangle](https://github.com/raji-chitra/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raji-chitra/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raji-chitra/leetcode-practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -84,6 +86,7 @@
 | [0011-container-with-most-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/raji-chitra/leetcode-practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raji-chitra/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/raji-chitra/leetcode-practice/tree/master/0287-find-the-duplicate-number) |
@@ -127,10 +130,12 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/raji-chitra/leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/raji-chitra/leetcode-practice/tree/master/0739-daily-temperatures) |
 ## Recursion
 |  |
