@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raji-chitra/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/raji-chitra/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/raji-chitra/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raji-chitra/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -17,12 +18,14 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raji-chitra/leetcode-practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/raji-chitra/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/raji-chitra/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/raji-chitra/leetcode-practice/tree/master/0273-integer-to-english-words) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/raji-chitra/leetcode-practice/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/raji-chitra/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/raji-chitra/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/raji-chitra/leetcode-practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raji-chitra/leetcode-practice/tree/master/0088-merge-sorted-array) |
@@ -42,6 +45,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/raji-chitra/leetcode-practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/raji-chitra/leetcode-practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/raji-chitra/leetcode-practice/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/raji-chitra/leetcode-practice/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/raji-chitra/leetcode-practice/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/raji-chitra/leetcode-practice/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/raji-chitra/leetcode-practice/tree/master/0073-set-matrix-zeroes) |
